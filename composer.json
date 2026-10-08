@@ -42,7 +42,7 @@
         "kenwheeler/slick": "~1.8.1",
         "drupal/search_api": "^1.25",
         "drupal/dropzonejs": "^2.6",
-        "enyo/dropzone": "v5.5.0",
+        "enyo/dropzone": "v5.7.3",
         "drupal/message": "^1.2.0",
         "drupal/message_notify": "^1.2.0",
         "mglaman/composer-drupal-lenient": "^1.0",
